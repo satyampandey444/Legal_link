@@ -1,5 +1,7 @@
-LegalLink: Bridging the Gap Between Legal Professionals and the Public
+LegalLink: Bridging the Gap Between Legal Professionals and the Public.
+
 Its Just a design of frontend website and Idea like legal link.
+
 Vision:
 LegalLink is a transformative digital platform designed to connect lawyers with everyday people, fostering a better understanding of legal policies and promoting an informed society. While the model may face challenges in its application in India due to the country's unique legal ecosystem, it has immense potential to thrive in nations like the United States, where legal awareness and accessibility are key priorities.
 
